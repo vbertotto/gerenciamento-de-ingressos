@@ -26,7 +26,7 @@ Este projeto é um sistema simples de emissão de tickets utilizando **Streamlit
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-tickets-qrcode.git
+   git clone https://github.com/vbertotto/gerenciamento-de-ingressos.git
    cd sistema-tickets-qrcode
    ```
 
